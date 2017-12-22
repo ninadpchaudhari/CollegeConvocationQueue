@@ -1,5 +1,2 @@
-Its Access file binary  !
-I know not the best thing to Version Control using Github, Should have probably used something else,
-But cmon , This is good enough for my History keeping !
-
+A distributed MS Access application which allows multi-booth check-in for students attending degree convocation ceremony and solves problems of atendee management for the college. The app provides customized and synchronized live feeds for backend team.
 Password for Admin Interface: 123
